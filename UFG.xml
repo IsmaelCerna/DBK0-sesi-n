@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UFG>
+    <NombreUniversidad>Universidad Francisco Gavidia</NombreUniversidad>
+    <Facultades>
+        <!-- Facultad de Ingeniería -->
+        <Facultad>
+            <NombreFacultad>Facultad de Ingeniería</NombreFacultad>
+            <Carreras>
+                <Carrera>
+                    <CodigoCarrera>IDV01</CodigoCarrera>
+                    <NombreCarrera>Ingeniería en Diseño y Programación de Videojuegos</NombreCarrera>
+                    <Modalidad>Presencial</Modalidad>
+                    <UrlPensum>https://fad.ufg.edu.sv/oferta-academica?idCarrera=010321&amp;sede=San%20Salvador</UrlPensum>
+                    <Pensum>
+                        <Asignatura>
+                            <NombreAsignatura>Programación I</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Diseño Gráfico</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Motores de Videojuegos</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                    </Pensum>
+                </Carrera>
+                <Carrera>
+                    <CodigoCarrera>IDW01</CodigoCarrera>
+                    <NombreCarrera>Ingeniería en Desarrollo Web</NombreCarrera>
+                    <Modalidad>Presencial</Modalidad>
+                    <UrlPensum>https://www.ufg.edu.sv/oferta-academica?idCarrera=010322&amp;sede=San%20Salvador</UrlPensum>
+                    <Pensum>
+                        <Asignatura>
+                            <NombreAsignatura>Desarrollo Web I</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Diseño de Interfaces</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Aplicaciones Móviles</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                    </Pensum>
+                </Carrera>
+            </Carreras>
+        </Facultad>
+
+        <!-- Facultad de Arquitectura -->
+        <Facultad>
+            <NombreFacultad>Facultad de Arquitectura</NombreFacultad>
+            <Carreras>
+                <Carrera>
+                    <CodigoCarrera>ARQ01</CodigoCarrera>
+                    <NombreCarrera>Arquitectura</NombreCarrera>
+                    <Modalidad>Presencial</Modalidad>
+                    <UrlPensum>https://fad.ufg.edu.sv/oferta-academica?idCarrera=010306&amp;sede=San%20Salvador</UrlPensum>
+                    <Pensum>
+                        <Asignatura>
+                            <NombreAsignatura>Dibujo Técnico</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Historia de la Arquitectura</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Diseño Arquitectónico I</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                    </Pensum>
+                </Carrera>
+                <Carrera>
+                    <CodigoCarrera>DI01</CodigoCarrera>
+                    <NombreCarrera>Diseño de Interiores</NombreCarrera>
+                    <Modalidad>Presencial</Modalidad>
+                    <UrlPensum>https://fad.ufg.edu.sv/oferta-academica?idCarrera=010807&amp;sede=San%20Salvador</UrlPensum>
+                    <Pensum>
+                        <Asignatura>
+                            <NombreAsignatura>Diseño de Mobiliario</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Historia del Diseño</NombreAsignatura>
+                            <UnidadesValorativas>3</UnidadesValorativas>
+                        </Asignatura>
+                        <Asignatura>
+                            <NombreAsignatura>Iluminación y Color</NombreAsignatura>
+                            <UnidadesValorativas>4</UnidadesValorativas>
+                        </Asignatura>
+                    </Pensum>
+                </Carrera>
+            </Carreras>
+        </Facultad>
+    </Facultades>
+    
+    <UnidadesApoyo>
+        <Unidad>
+            <NombreUnidad>Dirección de Bienestar Universitario</NombreUnidad>
+        </Unidad>
+        <Unidad>
+            <NombreUnidad>Dirección de Tecnologías de la Información</NombreUnidad>
+        </Unidad>
+        <Unidad>
+            <NombreUnidad>Biblioteca Central</NombreUnidad>
+        </Unidad>
+    </UnidadesApoyo>
+</UFG>
